@@ -1,8 +1,11 @@
-# React + Vite
+# React + API
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+### Blog criado com a tecnologia React juntamente com a API do site [JSONPlaceholder](https://jsonplaceholder.typicode.com/)
 
-Currently, two official plugins are available:
+Também foram utilizados vários hooks do react para um bom desenvolvimento do projeto, como:
+- useState
+- useContext
+- useEffect
+- useParams
+- useNavigate
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
